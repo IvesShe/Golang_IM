@@ -1,4 +1,4 @@
-# Golang IM
+# Golang IM 聊天通訊系統
 
 # 使用tcp通訊打造聊天通訊系統
 
